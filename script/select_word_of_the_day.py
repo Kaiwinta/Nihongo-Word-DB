@@ -18,7 +18,7 @@ def main():
 
 """
 
-    with open("README.md", "r", encoding="utf-8") as f:
+    with open("Readme.md", "r", encoding="utf-8") as f:
         content = f.read()
 
     start = content.find("## Word of the day")
