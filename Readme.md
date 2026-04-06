@@ -4,6 +4,11 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
+### 🇯🇵 グッジョブ
+- **Reading:** グッジョブ
+- **Translation:** good job
+- **Type:** colloquial|interjection
+
 ## Sources
 
 - **Tags:** [JapanDict](https://www.japandict.com)  
