@@ -3,7 +3,7 @@ from datetime import datetime
 
 def main():
     with open("Words.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
+        data = json.load(f)["Words"]
 
     index = datetime.now().toordinal() % len(data)
     entry = data[index]
@@ -12,7 +12,7 @@ def main():
     new_section = f"""## Word of the day
 
 ### 🇯🇵 {entry['Japanese']}
-- **Reading:** {entry['ReadableVersion']}
+- **Reading:** {entry['ReadableVersion'] or entry['Japanese']}
 - **Translation:** {entry['EnglishTranslation']}
 - **Type:** {entry['Tags']}
 
