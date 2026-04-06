@@ -7,7 +7,7 @@ This database contains **216,381 words**.
 ### 🇯🇵 グッジョブ
 - **Reading:** グッジョブ
 - **Translation:** good job
-- **Type:** colloquial|interjection
+- **Type:** colloquial, interjection
 
 ## Sources
 
