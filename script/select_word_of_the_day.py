@@ -30,7 +30,7 @@ def main():
 
     updated_content = content[:start] + new_section + content[end:]
 
-    with open("README.md", "w", encoding="utf-8") as f:
+    with open("Readme.md", "w", encoding="utf-8") as f:
         f.write(updated_content)
 
 if __name__ == "__main__":
