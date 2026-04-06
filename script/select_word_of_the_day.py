@@ -14,7 +14,7 @@ def main():
 ### 🇯🇵 {entry['Japanese']}
 - **Reading:** {entry['ReadableVersion'] or entry['Japanese']}
 - **Translation:** {entry['EnglishTranslation']}
-- **Type:** {entry['Tags']}
+- **Type:** {entry['Tags'].replace("|", ", ")}
 
 """
 
@@ -26,7 +26,7 @@ def main():
 
     # If the sections are not found
     if start == -1 or end == -1:
-        raise ValueError("Sections 'Word of the day' ou 'Sources' introuvables dans README.md")
+        raise ValueError("Sections 'Word of the day' ou 'Sources' introuvables dans Readme.md")
 
     updated_content = content[:start] + new_section + content[end:]
 
