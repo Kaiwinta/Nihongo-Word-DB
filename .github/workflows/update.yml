@@ -3,7 +3,7 @@ name: Update README daily
 on:
   schedule:
     - cron: "0 6 * * *"
-      timezone: "France/Paris"
+      timezone: "Europe/Paris"
   workflow_dispatch:
 
 jobs:
