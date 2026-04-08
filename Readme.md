@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 リテラチャー
-- **Reading:** リテラチャー
-- **Translation:** literature
+### 🇯🇵 偽君子
+- **Reading:** ぎくんし
+- **Translation:** hypocrite, snob
 - **Type:** noun
 
 ## Sources
