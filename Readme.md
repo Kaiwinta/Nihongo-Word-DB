@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 偽君子
-- **Reading:** ぎくんし
-- **Translation:** hypocrite, snob
+### 🇯🇵 乗車証
+- **Reading:** じょうしゃしょう
+- **Translation:** transport pass
 - **Type:** noun
 
 ## Sources
