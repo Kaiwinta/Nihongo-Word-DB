@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 乗車証
-- **Reading:** じょうしゃしょう
-- **Translation:** transport pass
+### 🇯🇵 中農
+- **Reading:** ちゅうのう
+- **Translation:** middle-class farmer
 - **Type:** noun
 
 ## Sources
