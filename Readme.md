@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 中農
-- **Reading:** ちゅうのう
-- **Translation:** middle-class farmer
-- **Type:** noun
+### 🇯🇵 無双直伝英信流
+- **Reading:** むそうじきでんえいしんりゅう
+- **Translation:** Muso Jikiden Eishin-ryu (iaido style)
+- **Type:** martial arts, noun
 
 ## Sources
 
