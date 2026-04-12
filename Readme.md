@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 無双直伝英信流
-- **Reading:** むそうじきでんえいしんりゅう
-- **Translation:** Muso Jikiden Eishin-ryu (iaido style)
-- **Type:** martial arts, noun
+### 🇯🇵 吊る
+- **Reading:** つる
+- **Translation:** to hang, to suspend, to sling, to wear (e.g. a sword), to put up (e.g. a shelf)
+- **Type:** verb, sumo, kana-only
 
 ## Sources
 
