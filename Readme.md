@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 吊る
-- **Reading:** つる
-- **Translation:** to hang, to suspend, to sling, to wear (e.g. a sword), to put up (e.g. a shelf)
-- **Type:** verb, sumo, kana-only
+### 🇯🇵 右手
+- **Reading:** みぎて
+- **Translation:** right hand, right-hand side, right-hand direction, (on) the right
+- **Type:** noun, adjective
 
 ## Sources
 
