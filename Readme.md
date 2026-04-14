@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 右手
-- **Reading:** みぎて
-- **Translation:** right hand, right-hand side, right-hand direction, (on) the right
-- **Type:** noun, adjective
+### 🇯🇵 垣堅くして犬入らず
+- **Reading:** かきかたくしていぬいらず
+- **Translation:** a wholesome household can not be disturbed from the outside, a house divided against itself cannot stand, a firm fence keeps the dogs out
+- **Type:** expression
 
 ## Sources
 
