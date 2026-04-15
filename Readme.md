@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 垣堅くして犬入らず
-- **Reading:** かきかたくしていぬいらず
-- **Translation:** a wholesome household can not be disturbed from the outside, a house divided against itself cannot stand, a firm fence keeps the dogs out
-- **Type:** expression
+### 🇯🇵 ツイフェミ
+- **Reading:** ツイフェミ
+- **Translation:** Twitter feminist, person who expresses feminist views on Twitter
+- **Type:** Internet slang, abbreviation, noun
 
 ## Sources
 
