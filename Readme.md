@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ツイフェミ
-- **Reading:** ツイフェミ
-- **Translation:** Twitter feminist, person who expresses feminist views on Twitter
-- **Type:** Internet slang, abbreviation, noun
+### 🇯🇵 相反
+- **Reading:** そうはん
+- **Translation:** mutual opposition, contrariety, contradiction, repulsion
+- **Type:** noun, genetics
 
 ## Sources
 
