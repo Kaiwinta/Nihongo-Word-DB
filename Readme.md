@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 相反
-- **Reading:** そうはん
-- **Translation:** mutual opposition, contrariety, contradiction, repulsion
-- **Type:** noun, genetics
+### 🇯🇵 南東
+- **Reading:** なんとう
+- **Translation:** southeast
+- **Type:** noun, adjective
 
 ## Sources
 
