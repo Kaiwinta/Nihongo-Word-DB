@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 南東
-- **Reading:** なんとう
-- **Translation:** southeast
-- **Type:** noun, adjective
+### 🇯🇵 想到
+- **Reading:** そうとう
+- **Translation:** thinking of, hitting upon
+- **Type:** noun, verb
 
 ## Sources
 
