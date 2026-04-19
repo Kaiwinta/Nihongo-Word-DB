@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 想到
-- **Reading:** そうとう
-- **Translation:** thinking of, hitting upon
-- **Type:** noun, verb
+### 🇯🇵 航空無線
+- **Reading:** こうくうむせん
+- **Translation:** aeronautical radio, aircraft radio
+- **Type:** noun
 
 ## Sources
 
