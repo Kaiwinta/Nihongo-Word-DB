@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 航空無線
-- **Reading:** こうくうむせん
-- **Translation:** aeronautical radio, aircraft radio
+### 🇯🇵 セレモニー
+- **Reading:** セレモニー
+- **Translation:** ceremony
 - **Type:** noun
 
 ## Sources
