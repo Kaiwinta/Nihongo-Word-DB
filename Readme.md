@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 セレモニー
-- **Reading:** セレモニー
-- **Translation:** ceremony
-- **Type:** noun
+### 🇯🇵 信用格付機関
+- **Reading:** しんようかくづけきかん
+- **Translation:** credit rating agency
+- **Type:** finance, noun
 
 ## Sources
 
