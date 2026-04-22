@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 信用格付機関
-- **Reading:** しんようかくづけきかん
-- **Translation:** credit rating agency
-- **Type:** finance, noun
+### 🇯🇵 ファクション
+- **Reading:** ファクション
+- **Translation:** faction
+- **Type:** noun
 
 ## Sources
 
