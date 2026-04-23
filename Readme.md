@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ファクション
-- **Reading:** ファクション
-- **Translation:** faction
+### 🇯🇵 婚姻色
+- **Reading:** こんいんしょく
+- **Translation:** nuptial coloration (colouration)
 - **Type:** noun
 
 ## Sources
