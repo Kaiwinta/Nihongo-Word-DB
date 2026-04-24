@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 婚姻色
-- **Reading:** こんいんしょく
-- **Translation:** nuptial coloration (colouration)
-- **Type:** noun
+### 🇯🇵 開廷
+- **Reading:** かいてい
+- **Translation:** court session, trial
+- **Type:** noun, verb
 
 ## Sources
 
