@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 開廷
-- **Reading:** かいてい
-- **Translation:** court session, trial
-- **Type:** noun, verb
+### 🇯🇵 ザエージェンシー
+- **Reading:** ザエージェンシー
+- **Translation:** Agency (film)
+- **Type:** noun
 
 ## Sources
 
