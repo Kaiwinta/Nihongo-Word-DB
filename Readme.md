@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ザエージェンシー
-- **Reading:** ザエージェンシー
-- **Translation:** Agency (film)
+### 🇯🇵 タッカー
+- **Reading:** タッカー
+- **Translation:** staple gun, tacker
 - **Type:** noun
 
 ## Sources
