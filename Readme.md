@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 タッカー
-- **Reading:** タッカー
-- **Translation:** staple gun, tacker
+### 🇯🇵 幾千
+- **Reading:** いくせん
+- **Translation:** thousands
 - **Type:** noun
 
 ## Sources
