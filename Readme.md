@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 幾千
-- **Reading:** いくせん
-- **Translation:** thousands
-- **Type:** noun
+### 🇯🇵 自今
+- **Reading:** じこん
+- **Translation:** from now on, hereafter
+- **Type:** archaic, noun, adverb
 
 ## Sources
 
