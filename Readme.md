@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 自今
-- **Reading:** じこん
-- **Translation:** from now on, hereafter
-- **Type:** archaic, noun, adverb
+### 🇯🇵 南北戦争
+- **Reading:** なんぼくせんそう
+- **Translation:** American Civil War (1861-1865)
+- **Type:** historical term, noun
 
 ## Sources
 
