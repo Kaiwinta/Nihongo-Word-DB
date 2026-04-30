@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 南北戦争
-- **Reading:** なんぼくせんそう
-- **Translation:** American Civil War (1861-1865)
-- **Type:** historical term, noun
+### 🇯🇵 トタン板
+- **Reading:** トタンいた
+- **Translation:** galvanized sheet iron, galvanised sheet iron
+- **Type:** noun
 
 ## Sources
 
