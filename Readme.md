@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 トタン板
-- **Reading:** トタンいた
-- **Translation:** galvanized sheet iron, galvanised sheet iron
+### 🇯🇵 アンローダー
+- **Reading:** アンローダー
+- **Translation:** unloader
 - **Type:** noun
 
 ## Sources
