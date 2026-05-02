@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 アンローダー
-- **Reading:** アンローダー
-- **Translation:** unloader
-- **Type:** noun
+### 🇯🇵 ストレンジアトラクター
+- **Reading:** ストレンジアトラクター
+- **Translation:** strange attractor
+- **Type:** mathematics, noun
 
 ## Sources
 
