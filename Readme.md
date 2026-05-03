@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ストレンジアトラクター
-- **Reading:** ストレンジアトラクター
-- **Translation:** strange attractor
-- **Type:** mathematics, noun
+### 🇯🇵 リアス海岸
+- **Reading:** リアスかいがん
+- **Translation:** deeply indented coastline, rias coastline
+- **Type:** geography, noun
 
 ## Sources
 
