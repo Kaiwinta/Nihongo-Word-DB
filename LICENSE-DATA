@@ -1,0 +1,42 @@
+DATA LICENSES
+=============
+
+The word and dictionary data in this repository is derived from third party
+sources and is subject to their respective licenses, separate from the
+application code.
+
+------------------------------------------------------------------------------
+JMdict (jmdict-eng-3.6.2)
+------------------------------------------------------------------------------
+Source  : https://www.edrdg.org/jmdict/j_jmdict.html
+Author  : The Electronic Dictionary Research and Development Group
+License : Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          https://creativecommons.org/licenses/by-sa/4.0/
+
+The word data in this project is a reformatted subset of the JMdict database.
+As required by the ShareAlike terms, this derived data is made available
+under the same CC BY-SA 4.0 license.
+
+------------------------------------------------------------------------------
+open-anki-jlpt-decks
+------------------------------------------------------------------------------
+Source  : https://github.com/jamsinclair/open-anki-jlpt-decks
+Author  : jamsinclair
+License : Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          https://creativecommons.org/licenses/by-sa/4.0/
+
+JLPT level classifications were sourced from this project and incorporated
+into the word data.
+
+------------------------------------------------------------------------------
+JapanDict
+------------------------------------------------------------------------------
+Source  : https://www.japandict.com/
+Used for JLPT tags and additional metadata.
+
+------------------------------------------------------------------------------
+NOTE
+------------------------------------------------------------------------------
+The above licenses apply exclusively to the data files (e.g. seed.sql,
+exported word lists). The application source code is licensed separately
+under the terms found in the LICENSE file at the root of this repository.
