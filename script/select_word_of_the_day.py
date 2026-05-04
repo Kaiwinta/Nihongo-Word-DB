@@ -22,7 +22,7 @@ def main():
         content = f.read()
 
     start = content.find("## Word of the day")
-    end = content.find("## Sources")
+    end = content.find("## Data Sources")
 
     # If the sections are not found
     if start == -1 or end == -1:
