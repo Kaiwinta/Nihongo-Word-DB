@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 リアス海岸
-- **Reading:** リアスかいがん
-- **Translation:** deeply indented coastline, rias coastline
-- **Type:** geography, noun
+### 🇯🇵 鎧竜
+- **Reading:** がいりゅう
+- **Translation:** ankylosaur (any dinosaur of infraorder Ankylosauria)
+- **Type:** rare term, noun
 
 ## Sources
 
