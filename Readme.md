@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 鎧竜
-- **Reading:** がいりゅう
-- **Translation:** ankylosaur (any dinosaur of infraorder Ankylosauria)
-- **Type:** rare term, noun
+### 🇯🇵 シナチベット諸語
+- **Reading:** シナチベットしょご
+- **Translation:** Sino-Tibetan languages
+- **Type:** noun
 
 ## Data Sources
 
