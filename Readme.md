@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 シナチベット諸語
-- **Reading:** シナチベットしょご
-- **Translation:** Sino-Tibetan languages
+### 🇯🇵 武勇談
+- **Reading:** ぶゆうだん
+- **Translation:** tale of heroism
 - **Type:** noun
 
 ## Data Sources
