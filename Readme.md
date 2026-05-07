@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 武勇談
-- **Reading:** ぶゆうだん
-- **Translation:** tale of heroism
+### 🇯🇵 シングルファーザー
+- **Reading:** シングルファーザー
+- **Translation:** single father
 - **Type:** noun
 
 ## Data Sources
