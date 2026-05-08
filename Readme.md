@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 シングルファーザー
-- **Reading:** シングルファーザー
-- **Translation:** single father
-- **Type:** noun
+### 🇯🇵 電源投入時パスワード
+- **Reading:** でんげんとうにゅうじパスワード
+- **Translation:** power-on password
+- **Type:** computing, noun
 
 ## Data Sources
 
