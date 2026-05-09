@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 電源投入時パスワード
-- **Reading:** でんげんとうにゅうじパスワード
-- **Translation:** power-on password
-- **Type:** computing, noun
+### 🇯🇵 遮蔽物
+- **Reading:** しゃへいぶつ
+- **Translation:** shelter, cover, screen, shield, obstruction
+- **Type:** noun
 
 ## Data Sources
 
