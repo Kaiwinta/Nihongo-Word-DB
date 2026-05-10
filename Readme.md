@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 遮蔽物
-- **Reading:** しゃへいぶつ
-- **Translation:** shelter, cover, screen, shield, obstruction
-- **Type:** noun
+### 🇯🇵 ボーイッシュ
+- **Reading:** ボーイッシュ
+- **Translation:** boyish, tomboyish
+- **Type:** adjective
 
 ## Data Sources
 
