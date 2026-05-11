@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ボーイッシュ
-- **Reading:** ボーイッシュ
-- **Translation:** boyish, tomboyish
-- **Type:** adjective
+### 🇯🇵 延べ払い
+- **Reading:** のべばらい
+- **Translation:** deferred payment
+- **Type:** noun
 
 ## Data Sources
 
