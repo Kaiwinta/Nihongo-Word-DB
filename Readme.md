@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 延べ払い
-- **Reading:** のべばらい
-- **Translation:** deferred payment
+### 🇯🇵 引札
+- **Reading:** ひきふだ
+- **Translation:** announcement flier (e.g. sale at a shop), raffle ticket, lottery ticket, hikifuda (type of playing cards numbered 1-6, used by the bank in tehonbiki), kurifuda
 - **Type:** noun
 
 ## Data Sources
