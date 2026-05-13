@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 引札
-- **Reading:** ひきふだ
-- **Translation:** announcement flier (e.g. sale at a shop), raffle ticket, lottery ticket, hikifuda (type of playing cards numbered 1-6, used by the bank in tehonbiki), kurifuda
-- **Type:** noun
+### 🇯🇵 ご覧じる
+- **Reading:** ごろうじる
+- **Translation:** to see, to look, to watch, to try to ...
+- **Type:** archaic, honorific, verb
 
 ## Data Sources
 
