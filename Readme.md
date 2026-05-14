@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ご覧じる
-- **Reading:** ごろうじる
-- **Translation:** to see, to look, to watch, to try to ...
-- **Type:** archaic, honorific, verb
+### 🇯🇵 漏れ聞く
+- **Reading:** もれきく
+- **Translation:** to overhear, to hear (secondhand), to hear on the grapevine, to know by hearsay
+- **Type:** verb
 
 ## Data Sources
 
