@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 漏れ聞く
-- **Reading:** もれきく
-- **Translation:** to overhear, to hear (secondhand), to hear on the grapevine, to know by hearsay
-- **Type:** verb
+### 🇯🇵 司法改革
+- **Reading:** しほうかいかく
+- **Translation:** judicial reform
+- **Type:** noun
 
 ## Data Sources
 
