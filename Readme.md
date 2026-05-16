@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 司法改革
-- **Reading:** しほうかいかく
-- **Translation:** judicial reform
+### 🇯🇵 リハビリテーション
+- **Reading:** リハビリテーション
+- **Translation:** rehabilitation
 - **Type:** noun
 
 ## Data Sources
