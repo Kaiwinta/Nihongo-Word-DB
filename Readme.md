@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 リハビリテーション
-- **Reading:** リハビリテーション
-- **Translation:** rehabilitation
-- **Type:** noun
+### 🇯🇵 メインページ
+- **Reading:** メインページ
+- **Translation:** main page, home page
+- **Type:** Internet, noun
 
 ## Data Sources
 
