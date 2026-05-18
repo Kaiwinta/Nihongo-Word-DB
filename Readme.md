@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 メインページ
-- **Reading:** メインページ
-- **Translation:** main page, home page
-- **Type:** Internet, noun
+### 🇯🇵 二進法
+- **Reading:** にしんほう
+- **Translation:** binary number system, base-2
+- **Type:** noun
 
 ## Data Sources
 
