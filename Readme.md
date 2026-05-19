@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 二進法
-- **Reading:** にしんほう
-- **Translation:** binary number system, base-2
+### 🇯🇵 暗殺未遂
+- **Reading:** あんさつみすい
+- **Translation:** attempted assassination
 - **Type:** noun
 
 ## Data Sources
