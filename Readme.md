@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 暗殺未遂
-- **Reading:** あんさつみすい
-- **Translation:** attempted assassination
+### 🇯🇵 暗室
+- **Reading:** あんしつ
+- **Translation:** darkroom
 - **Type:** noun
 
 ## Data Sources
