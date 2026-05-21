@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 暗室
-- **Reading:** あんしつ
-- **Translation:** darkroom
+### 🇯🇵 ウーリーナイロン
+- **Reading:** ウーリーナイロン
+- **Translation:** woolly nylon
 - **Type:** noun
 
 ## Data Sources
