@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ウーリーナイロン
-- **Reading:** ウーリーナイロン
-- **Translation:** woolly nylon
+### 🇯🇵 発受電電力量
+- **Reading:** はつじゅでんでんりょくりょう
+- **Translation:** generated and purchased electric power
 - **Type:** noun
 
 ## Data Sources
