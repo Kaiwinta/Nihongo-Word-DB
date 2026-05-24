@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 認証コード
-- **Reading:** にんしょうコード
-- **Translation:** authentication code, authenticator
-- **Type:** noun
+### 🇯🇵 コルンブ石
+- **Reading:** コルンブせき
+- **Translation:** columbite
+- **Type:** mineralogy, noun
 
 ## Data Sources
 
