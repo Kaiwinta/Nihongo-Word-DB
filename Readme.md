@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 コルンブ石
-- **Reading:** コルンブせき
-- **Translation:** columbite
-- **Type:** mineralogy, noun
+### 🇯🇵 海鳥糞
+- **Reading:** かいちょうふん
+- **Translation:** guano
+- **Type:** rare term, noun
 
 ## Data Sources
 
