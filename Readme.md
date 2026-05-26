@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 海鳥糞
-- **Reading:** かいちょうふん
-- **Translation:** guano
-- **Type:** rare term, noun
+### 🇯🇵 人種的
+- **Reading:** じんしゅてき
+- **Translation:** racial
+- **Type:** adjective
 
 ## Data Sources
 
