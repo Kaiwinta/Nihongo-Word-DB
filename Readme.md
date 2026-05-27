@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 人種的
-- **Reading:** じんしゅてき
-- **Translation:** racial
-- **Type:** adjective
+### 🇯🇵 牛鮫
+- **Reading:** うしざめ
+- **Translation:** bull shark (Carcharhinus leucas)
+- **Type:** kana-only, noun
 
 ## Data Sources
 
