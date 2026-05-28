@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 牛鮫
-- **Reading:** うしざめ
-- **Translation:** bull shark (Carcharhinus leucas)
-- **Type:** kana-only, noun
+### 🇯🇵 有責
+- **Reading:** ゆうせき
+- **Translation:** fault, responsibility, culpability
+- **Type:** law, noun, adjective
 
 ## Data Sources
 
