@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 有責
-- **Reading:** ゆうせき
-- **Translation:** fault, responsibility, culpability
-- **Type:** law, noun, adjective
+### 🇯🇵 静脈性潰瘍
+- **Reading:** じょうみゃくせいかいよう
+- **Translation:** venous ulcers, stasis ulcers, varicose ulcers, ulcus cruris
+- **Type:** medicine, noun
 
 ## Data Sources
 
