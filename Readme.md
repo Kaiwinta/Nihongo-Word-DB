@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 静脈性潰瘍
-- **Reading:** じょうみゃくせいかいよう
-- **Translation:** venous ulcers, stasis ulcers, varicose ulcers, ulcus cruris
-- **Type:** medicine, noun
+### 🇯🇵 集い
+- **Reading:** つどい
+- **Translation:** meeting, get-together (e.g. among friends)
+- **Type:** noun
 
 ## Data Sources
 
