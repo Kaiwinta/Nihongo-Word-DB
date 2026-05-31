@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 集い
-- **Reading:** つどい
-- **Translation:** meeting, get-together (e.g. among friends)
+### 🇯🇵 安心毛布
+- **Reading:** あんしんもうふ
+- **Translation:** security blanket, comfort blanket, comfort object
 - **Type:** noun
 
 ## Data Sources
