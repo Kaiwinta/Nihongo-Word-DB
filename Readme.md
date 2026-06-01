@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 安心毛布
-- **Reading:** あんしんもうふ
-- **Translation:** security blanket, comfort blanket, comfort object
-- **Type:** noun
+### 🇯🇵 独占禁止
+- **Reading:** どくせんきんし
+- **Translation:** antimonopoly, antitrust
+- **Type:** noun, adjective
 
 ## Data Sources
 
