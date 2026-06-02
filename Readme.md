@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 独占禁止
-- **Reading:** どくせんきんし
-- **Translation:** antimonopoly, antitrust
-- **Type:** noun, adjective
+### 🇯🇵 スタント
+- **Reading:** スタント
+- **Translation:** stunt
+- **Type:** noun
 
 ## Data Sources
 
