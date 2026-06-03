@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 スタント
-- **Reading:** スタント
-- **Translation:** stunt
-- **Type:** noun
+### 🇯🇵 酒癖が悪い
+- **Reading:** さけぐせがわるい
+- **Translation:** being a bad drunk
+- **Type:** expression, adjective
 
 ## Data Sources
 
