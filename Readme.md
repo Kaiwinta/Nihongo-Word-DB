@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 小鰭
-- **Reading:** こはだ
-- **Translation:** mid-sized konoshiro gizzard shad (i.e. about 15 cm in size)
-- **Type:** irregular kanji usage, kana-only, noun
+### 🇯🇵 絢文
+- **Reading:** けんぶん
+- **Translation:** colorful pattern, colourful pattern
+- **Type:** noun
 
 ## Data Sources
 
