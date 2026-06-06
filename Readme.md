@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 絢文
-- **Reading:** けんぶん
-- **Translation:** colorful pattern, colourful pattern
-- **Type:** noun
+### 🇯🇵 腹腔穿刺
+- **Reading:** ふくくうせんし
+- **Translation:** abdominocentesis, abdominal paracentesis, peritoneal tap
+- **Type:** medicine, noun
 
 ## Data Sources
 
