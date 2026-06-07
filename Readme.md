@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 腹腔穿刺
-- **Reading:** ふくくうせんし
-- **Translation:** abdominocentesis, abdominal paracentesis, peritoneal tap
-- **Type:** medicine, noun
+### 🇯🇵 海軟風
+- **Reading:** かいなんぷう
+- **Translation:** sea breeze
+- **Type:** noun
 
 ## Data Sources
 
