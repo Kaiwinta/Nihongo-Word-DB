@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 海軟風
-- **Reading:** かいなんぷう
-- **Translation:** sea breeze
+### 🇯🇵 寒苦
+- **Reading:** かんく
+- **Translation:** suffering caused by the cold
 - **Type:** noun
 
 ## Data Sources
