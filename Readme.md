@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 寒苦
-- **Reading:** かんく
-- **Translation:** suffering caused by the cold
-- **Type:** noun
+### 🇯🇵 飯
+- **Reading:** いい
+- **Translation:** cooked rice
+- **Type:** male, noun
 
 ## Data Sources
 
