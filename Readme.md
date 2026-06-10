@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 飯
-- **Reading:** いい
-- **Translation:** cooked rice
-- **Type:** male, noun
+### 🇯🇵 脳磁界
+- **Reading:** のうじかい
+- **Translation:** neuro-magnetic field
+- **Type:** noun
 
 ## Data Sources
 
