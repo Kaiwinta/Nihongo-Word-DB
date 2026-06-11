@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 脳磁界
-- **Reading:** のうじかい
-- **Translation:** neuro-magnetic field
-- **Type:** noun
+### 🇯🇵 ノースリーブ
+- **Reading:** ノースリーブ
+- **Translation:** sleeveless clothing
+- **Type:** loanword, noun, adjective
 
 ## Data Sources
 
