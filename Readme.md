@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ノースリーブ
-- **Reading:** ノースリーブ
-- **Translation:** sleeveless clothing
-- **Type:** loanword, noun, adjective
+### 🇯🇵 グラフィックアート
+- **Reading:** グラフィックアート
+- **Translation:** graphic arts
+- **Type:** noun
 
 ## Data Sources
 
