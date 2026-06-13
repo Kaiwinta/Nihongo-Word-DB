@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 グラフィックアート
-- **Reading:** グラフィックアート
-- **Translation:** graphic arts
+### 🇯🇵 名宛
+- **Reading:** なあて
+- **Translation:** address (on an envelope)
 - **Type:** noun
 
 ## Data Sources
