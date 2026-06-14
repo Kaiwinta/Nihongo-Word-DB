@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 名宛
-- **Reading:** なあて
-- **Translation:** address (on an envelope)
-- **Type:** noun
+### 🇯🇵 細め
+- **Reading:** ほそめ
+- **Translation:** thinnish, somewhat narrow
+- **Type:** ateji, noun, adjective
 
 ## Data Sources
 
