@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 細め
-- **Reading:** ほそめ
-- **Translation:** thinnish, somewhat narrow
-- **Type:** ateji, noun, adjective
+### 🇯🇵 ご足労
+- **Reading:** ごそくろう
+- **Translation:** inviting another to one's home, office, etc., the trouble of coming (going)
+- **Type:** polite, noun
 
 ## Data Sources
 
