@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ご足労
-- **Reading:** ごそくろう
-- **Translation:** inviting another to one's home, office, etc., the trouble of coming (going)
-- **Type:** polite, noun
+### 🇯🇵 下町人情
+- **Reading:** したまちにんじょう
+- **Translation:** the warm feelings of people of the traditional commercial and working-class neighborhoods
+- **Type:** noun
 
 ## Data Sources
 
