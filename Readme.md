@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 下町人情
-- **Reading:** したまちにんじょう
-- **Translation:** the warm feelings of people of the traditional commercial and working-class neighborhoods
-- **Type:** noun
+### 🇯🇵 そうすると
+- **Reading:** そうすると
+- **Translation:** having done that, if that is done, if it is done in that way
+- **Type:** expression
 
 ## Data Sources
 
