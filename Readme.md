@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 そうすると
-- **Reading:** そうすると
-- **Translation:** having done that, if that is done, if it is done in that way
-- **Type:** expression
+### 🇯🇵 ニーパン
+- **Reading:** ニーパン
+- **Translation:** needle-punched nonwoven fabric
+- **Type:** abbreviation, noun
 
 ## Data Sources
 
