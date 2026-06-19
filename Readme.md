@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ニーパン
-- **Reading:** ニーパン
-- **Translation:** needle-punched nonwoven fabric
-- **Type:** abbreviation, noun
+### 🇯🇵 スルーホール
+- **Reading:** スルーホール
+- **Translation:** through hole
+- **Type:** computing, noun
 
 ## Data Sources
 
