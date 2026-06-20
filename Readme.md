@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 スルーホール
-- **Reading:** スルーホール
-- **Translation:** through hole
-- **Type:** computing, noun
+### 🇯🇵 立体交差
+- **Reading:** りったいこうさ
+- **Translation:** multi-level crossing (of roads to avoid intersection), two-level crossing, cloverleaf interchange, grade separation
+- **Type:** noun, verb
 
 ## Data Sources
 
