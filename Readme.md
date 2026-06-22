@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 アカマツカサ
-- **Reading:** アカマツカサ
-- **Translation:** bigscale soldierfish (Myripristis berndti)
-- **Type:** noun
+### 🇯🇵 アナログ乗算器
+- **Reading:** アナログじょうざんき
+- **Translation:** analog multiplier
+- **Type:** computing, noun
 
 ## Data Sources
 
