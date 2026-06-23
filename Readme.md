@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 アナログ乗算器
-- **Reading:** アナログじょうざんき
-- **Translation:** analog multiplier
-- **Type:** computing, noun
+### 🇯🇵 浮遊霊
+- **Reading:** ふゆうれい
+- **Translation:** wandering ghost
+- **Type:** noun
 
 ## Data Sources
 
