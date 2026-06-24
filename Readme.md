@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 浮遊霊
-- **Reading:** ふゆうれい
-- **Translation:** wandering ghost
-- **Type:** noun
+### 🇯🇵 ペアガラス
+- **Reading:** ペアガラス
+- **Translation:** double glazing
+- **Type:** loanword, noun
 
 ## Data Sources
 
