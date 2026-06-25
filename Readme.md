@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ペアガラス
-- **Reading:** ペアガラス
-- **Translation:** double glazing
-- **Type:** loanword, noun
+### 🇯🇵 データ付き領域集合群
+- **Reading:** データつきりょういきしゅうごうぐん
+- **Translation:** set of fill area sets with data
+- **Type:** computing, noun
 
 ## Data Sources
 
