@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 データ付き領域集合群
-- **Reading:** データつきりょういきしゅうごうぐん
-- **Translation:** set of fill area sets with data
-- **Type:** computing, noun
+### 🇯🇵 ユーロ円債
+- **Reading:** ユーロえんさい
+- **Translation:** Euro-yen bond
+- **Type:** noun
 
 ## Data Sources
 
