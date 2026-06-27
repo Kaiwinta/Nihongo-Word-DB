@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ユーロ円債
-- **Reading:** ユーロえんさい
-- **Translation:** Euro-yen bond
-- **Type:** noun
+### 🇯🇵 遺伝子拡散
+- **Reading:** いでんしかくさん
+- **Translation:** gene flow, gene migration
+- **Type:** genetics, noun
 
 ## Data Sources
 
