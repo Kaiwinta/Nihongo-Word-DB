@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 遺伝子拡散
-- **Reading:** いでんしかくさん
-- **Translation:** gene flow, gene migration
-- **Type:** genetics, noun
+### 🇯🇵 母物
+- **Reading:** ははもの
+- **Translation:** story of maternal love
+- **Type:** noun
 
 ## Data Sources
 
