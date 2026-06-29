@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 母物
-- **Reading:** ははもの
-- **Translation:** story of maternal love
+### 🇯🇵 相互主義
+- **Reading:** そうごしゅぎ
+- **Translation:** principle of reciprocity
 - **Type:** noun
 
 ## Data Sources
