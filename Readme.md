@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 相互主義
-- **Reading:** そうごしゅぎ
-- **Translation:** principle of reciprocity
+### 🇯🇵 瑞風
+- **Reading:** ずいふう
+- **Translation:** excellent style (in noh), ideal style
 - **Type:** noun
 
 ## Data Sources
