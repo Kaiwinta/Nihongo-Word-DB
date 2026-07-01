@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 瑞風
-- **Reading:** ずいふう
-- **Translation:** excellent style (in noh), ideal style
+### 🇯🇵 民主改革
+- **Reading:** みんしゅかいかく
+- **Translation:** democratic reform
 - **Type:** noun
 
 ## Data Sources
