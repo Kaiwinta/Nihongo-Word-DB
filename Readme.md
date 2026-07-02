@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 民主改革
-- **Reading:** みんしゅかいかく
-- **Translation:** democratic reform
+### 🇯🇵 流行り歌
+- **Reading:** はやりうた
+- **Translation:** popular song
 - **Type:** noun
 
 ## Data Sources
