@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 流行り歌
-- **Reading:** はやりうた
-- **Translation:** popular song
-- **Type:** noun
+### 🇯🇵 南無三
+- **Reading:** なむさん
+- **Translation:** oh no!, good heavens!, oops
+- **Type:** abbreviation, interjection
 
 ## Data Sources
 
