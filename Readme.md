@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 南無三
-- **Reading:** なむさん
-- **Translation:** oh no!, good heavens!, oops
-- **Type:** abbreviation, interjection
+### 🇯🇵 正弦波
+- **Reading:** せいげんは
+- **Translation:** sine wave
+- **Type:** noun
 
 ## Data Sources
 
