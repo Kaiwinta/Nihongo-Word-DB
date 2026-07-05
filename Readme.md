@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 正弦波
-- **Reading:** せいげんは
-- **Translation:** sine wave
-- **Type:** noun
+### 🇯🇵 後押し
+- **Reading:** あとおし
+- **Translation:** pushing, support, backing, supporter, backer
+- **Type:** noun, verb
 
 ## Data Sources
 
