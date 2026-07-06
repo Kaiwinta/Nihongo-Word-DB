@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 後押し
-- **Reading:** あとおし
-- **Translation:** pushing, support, backing, supporter, backer
+### 🇯🇵 ロスト
+- **Reading:** ロスト
+- **Translation:** Lost (TV series)
 - **Type:** noun, verb
 
 ## Data Sources
