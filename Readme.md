@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ロスト
-- **Reading:** ロスト
-- **Translation:** Lost (TV series)
-- **Type:** noun, verb
+### 🇯🇵 切情
+- **Reading:** せつじょう
+- **Translation:** ardent love
+- **Type:** noun
 
 ## Data Sources
 
