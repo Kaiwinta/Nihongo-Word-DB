@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 切情
-- **Reading:** せつじょう
-- **Translation:** ardent love
+### 🇯🇵 波力
+- **Reading:** はりょく
+- **Translation:** wave power, wave force
 - **Type:** noun
 
 ## Data Sources
