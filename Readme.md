@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 波力
-- **Reading:** はりょく
-- **Translation:** wave power, wave force
-- **Type:** noun
+### 🇯🇵 令堂
+- **Reading:** れいどう
+- **Translation:** home, mother
+- **Type:** polite, noun
 
 ## Data Sources
 
