@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 令堂
-- **Reading:** れいどう
-- **Translation:** home, mother
-- **Type:** polite, noun
+### 🇯🇵 雨乞い
+- **Reading:** あまごい
+- **Translation:** praying for rain
+- **Type:** noun, verb
 
 ## Data Sources
 
