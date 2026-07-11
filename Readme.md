@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 雨乞い
-- **Reading:** あまごい
-- **Translation:** praying for rain
-- **Type:** noun, verb
+### 🇯🇵 笑ける
+- **Reading:** わらける
+- **Translation:** to laugh (suddenly), to begin to laugh, to be made to laugh
+- **Type:** verb, dialect
 
 ## Data Sources
 
