@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 回送先住所要求
-- **Reading:** かいそうさきじゅうしょようきゅう
-- **Translation:** request for forwarding address, PD PR
-- **Type:** computing, noun
+### 🇯🇵 発送日
+- **Reading:** はっそうび
+- **Translation:** shipping day, dispatching day
+- **Type:** noun
 
 ## Data Sources
 
