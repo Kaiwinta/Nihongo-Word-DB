@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 発送日
-- **Reading:** はっそうび
-- **Translation:** shipping day, dispatching day
+### 🇯🇵 鉱車
+- **Reading:** こうしゃ
+- **Translation:** mine car, mine wagon
 - **Type:** noun
 
 ## Data Sources
