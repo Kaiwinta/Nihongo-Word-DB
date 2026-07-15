@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 鉱車
-- **Reading:** こうしゃ
-- **Translation:** mine car, mine wagon
+### 🇯🇵 産業連関表
+- **Reading:** さんぎょうれんかんひょう
+- **Translation:** interindustry relations table, input-output table
 - **Type:** noun
 
 ## Data Sources
