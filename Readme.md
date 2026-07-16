@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 産業連関表
-- **Reading:** さんぎょうれんかんひょう
-- **Translation:** interindustry relations table, input-output table
+### 🇯🇵 旋回橋
+- **Reading:** せんかいきょう
+- **Translation:** swing bridge, swivel bridge
 - **Type:** noun
 
 ## Data Sources
