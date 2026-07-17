@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 旋回橋
-- **Reading:** せんかいきょう
-- **Translation:** swing bridge, swivel bridge
-- **Type:** noun
+### 🇯🇵 プチバスト
+- **Reading:** プチバスト
+- **Translation:** small bust, small breasts
+- **Type:** loanword, noun
 
 ## Data Sources
 
