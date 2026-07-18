@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 プチバスト
-- **Reading:** プチバスト
-- **Translation:** small bust, small breasts
-- **Type:** loanword, noun
+### 🇯🇵 炎症性
+- **Reading:** えんしょうせい
+- **Translation:** inflammatory, pro-inflammatory
+- **Type:** medicine, noun, adjective
 
 ## Data Sources
 
