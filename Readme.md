@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 炎症性
-- **Reading:** えんしょうせい
-- **Translation:** inflammatory, pro-inflammatory
-- **Type:** medicine, noun, adjective
+### 🇯🇵 教徒
+- **Reading:** きょうと
+- **Translation:** believer, adherent
+- **Type:** noun
 
 ## Data Sources
 
