@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 教徒
-- **Reading:** きょうと
-- **Translation:** believer, adherent
+### 🇯🇵 関東弁
+- **Reading:** かんとうべん
+- **Translation:** Kantō dialect
 - **Type:** noun
 
 ## Data Sources
