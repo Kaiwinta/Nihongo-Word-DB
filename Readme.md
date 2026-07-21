@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 関東弁
-- **Reading:** かんとうべん
-- **Translation:** Kantō dialect
-- **Type:** noun
+### 🇯🇵 刺激薬
+- **Reading:** しげきやく
+- **Translation:** stimulant, irritant
+- **Type:** pharmacology, noun
 
 ## Data Sources
 
