@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 刺激薬
-- **Reading:** しげきやく
-- **Translation:** stimulant, irritant
-- **Type:** pharmacology, noun
+### 🇯🇵 ホーンシャーク
+- **Reading:** ホーンシャーク
+- **Translation:** horn shark (Heterodontus francisci, a bullhead shark from the Eastern Pacific)
+- **Type:** noun
 
 ## Data Sources
 
