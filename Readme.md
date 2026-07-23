@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ホーンシャーク
-- **Reading:** ホーンシャーク
-- **Translation:** horn shark (Heterodontus francisci, a bullhead shark from the Eastern Pacific)
-- **Type:** noun
+### 🇯🇵 土建
+- **Reading:** どけん
+- **Translation:** civil engineering and construction, public works and construction
+- **Type:** abbreviation, noun
 
 ## Data Sources
 
