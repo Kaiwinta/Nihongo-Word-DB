@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 土建
-- **Reading:** どけん
-- **Translation:** civil engineering and construction, public works and construction
-- **Type:** abbreviation, noun
+### 🇯🇵 賞詞
+- **Reading:** しょうし
+- **Translation:** (words of) praise, eulogy
+- **Type:** noun
 
 ## Data Sources
 
