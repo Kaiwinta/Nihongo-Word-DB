@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 賞詞
-- **Reading:** しょうし
-- **Translation:** (words of) praise, eulogy
-- **Type:** noun
+### 🇯🇵 氷柱
+- **Reading:** つらら
+- **Translation:** icicle, ice pillar (for cooling a room), ice
+- **Type:** kana-only, noun, archaic
 
 ## Data Sources
 
