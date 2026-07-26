@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 氷柱
-- **Reading:** つらら
-- **Translation:** icicle, ice pillar (for cooling a room), ice
-- **Type:** kana-only, noun, archaic
+### 🇯🇵 ラフレシア
+- **Reading:** ラフレシア
+- **Translation:** Rafflesia (Pokémon)
+- **Type:** noun
 
 ## Data Sources
 
