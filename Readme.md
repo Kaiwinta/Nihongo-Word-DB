@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ラフレシア
-- **Reading:** ラフレシア
-- **Translation:** Rafflesia (Pokémon)
+### 🇯🇵 積算マイル
+- **Reading:** せきさんマイル
+- **Translation:** award miles
 - **Type:** noun
 
 ## Data Sources
