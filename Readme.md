@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 鉄道公安職員
-- **Reading:** てつどうこうあんしょくいん
-- **Translation:** railway police officer (pre-1987)
-- **Type:** historical term, noun
+### 🇯🇵 インコヒーレント
+- **Reading:** インコヒーレント
+- **Translation:** incoherent
+- **Type:** physics, adjective
 
 ## Data Sources
 
