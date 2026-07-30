@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 インコヒーレント
-- **Reading:** インコヒーレント
-- **Translation:** incoherent
-- **Type:** physics, adjective
+### 🇯🇵 肢位
+- **Reading:** しい
+- **Translation:** body joints position (leg, foot, etc.)
+- **Type:** anatomy, noun
 
 ## Data Sources
 
