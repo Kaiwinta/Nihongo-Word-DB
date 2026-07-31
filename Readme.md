@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 肢位
-- **Reading:** しい
-- **Translation:** body joints position (leg, foot, etc.)
-- **Type:** anatomy, noun
+### 🇯🇵 丸数字
+- **Reading:** まるすうじ
+- **Translation:** circled number
+- **Type:** noun
 
 ## Data Sources
 
