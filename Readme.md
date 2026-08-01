@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 丸数字
-- **Reading:** まるすうじ
-- **Translation:** circled number
+### 🇯🇵 講義室
+- **Reading:** こうぎしつ
+- **Translation:** lecture hall, lecture room
 - **Type:** noun
 
 ## Data Sources
