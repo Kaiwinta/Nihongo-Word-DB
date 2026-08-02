@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 講義室
-- **Reading:** こうぎしつ
-- **Translation:** lecture hall, lecture room
+### 🇯🇵 慶應義塾大学
+- **Reading:** けいおうぎじゅくだいがく
+- **Translation:** Keio University
 - **Type:** noun
 
 ## Data Sources
