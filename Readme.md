@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 慶應義塾大学
-- **Reading:** けいおうぎじゅくだいがく
-- **Translation:** Keio University
+### 🇯🇵 導き手
+- **Reading:** みちびきて
+- **Translation:** guide
 - **Type:** noun
 
 ## Data Sources
