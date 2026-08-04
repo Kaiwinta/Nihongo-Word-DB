@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 導き手
-- **Reading:** みちびきて
-- **Translation:** guide
+### 🇯🇵 不審火
+- **Reading:** ふしんび
+- **Translation:** fire of suspicious origin, suspected arson
 - **Type:** noun
 
 ## Data Sources
