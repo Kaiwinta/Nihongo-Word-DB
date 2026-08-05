@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 不審火
-- **Reading:** ふしんび
-- **Translation:** fire of suspicious origin, suspected arson
-- **Type:** noun
+### 🇯🇵 正午
+- **Reading:** しょうご
+- **Translation:** noon, midday
+- **Type:** noun, adverb
 
 ## Data Sources
 
