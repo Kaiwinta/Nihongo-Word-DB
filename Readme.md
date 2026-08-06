@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 正午
-- **Reading:** しょうご
-- **Translation:** noon, midday
-- **Type:** noun, adverb
+### 🇯🇵 葉状茎
+- **Reading:** ようじょうけい
+- **Translation:** cladophyll, cladode, phylloclade
+- **Type:** noun
 
 ## Data Sources
 
