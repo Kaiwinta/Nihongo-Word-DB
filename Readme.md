@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 葉状茎
-- **Reading:** ようじょうけい
-- **Translation:** cladophyll, cladode, phylloclade
+### 🇯🇵 仏頂面
+- **Reading:** ぶっちょうづら
+- **Translation:** sour look, surly face, pout
 - **Type:** noun
 
 ## Data Sources
