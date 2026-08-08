@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 仏頂面
-- **Reading:** ぶっちょうづら
-- **Translation:** sour look, surly face, pout
+### 🇯🇵 烈火
+- **Reading:** れっか
+- **Translation:** raging fire, conflagration
 - **Type:** noun
 
 ## Data Sources
