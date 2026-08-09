@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 烈火
-- **Reading:** れっか
-- **Translation:** raging fire, conflagration
-- **Type:** noun
+### 🇯🇵 頭立つ
+- **Reading:** かしらだつ
+- **Translation:** to become the head (of a group, organization, etc.), to rise to the top
+- **Type:** verb
 
 ## Data Sources
 
