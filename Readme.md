@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 頭立つ
-- **Reading:** かしらだつ
-- **Translation:** to become the head (of a group, organization, etc.), to rise to the top
-- **Type:** verb
+### 🇯🇵 ＮＧＯ
+- **Reading:** エヌ・ジー・オー
+- **Translation:** non-governmental organization, NGO
+- **Type:** noun
 
 ## Data Sources
 
