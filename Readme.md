@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ＮＧＯ
-- **Reading:** エヌ・ジー・オー
-- **Translation:** non-governmental organization, NGO
-- **Type:** noun
+### 🇯🇵 色身
+- **Reading:** しきしん
+- **Translation:** rupakaya (the physical body, esp. of a buddha)
+- **Type:** religion, noun
 
 ## Data Sources
 
