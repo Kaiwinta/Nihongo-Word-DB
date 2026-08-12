@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 色身
-- **Reading:** しきしん
-- **Translation:** rupakaya (the physical body, esp. of a buddha)
-- **Type:** religion, noun
+### 🇯🇵 パイスラ
+- **Reading:** パイスラ
+- **Translation:** appearance of a woman's breasts bisected by a seatbelt, shoulder bag strap, etc.
+- **Type:** slang, abbreviation, noun
 
 ## Data Sources
 
