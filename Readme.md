@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 パイスラ
-- **Reading:** パイスラ
-- **Translation:** appearance of a woman's breasts bisected by a seatbelt, shoulder bag strap, etc.
-- **Type:** slang, abbreviation, noun
+### 🇯🇵 日本人形玩具学会
+- **Reading:** にほんにんぎょうがんぐがっかい
+- **Translation:** The Japan International Doll and Toy Research Association
+- **Type:** noun
 
 ## Data Sources
 
