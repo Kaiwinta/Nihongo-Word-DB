@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 日本人形玩具学会
-- **Reading:** にほんにんぎょうがんぐがっかい
-- **Translation:** The Japan International Doll and Toy Research Association
+### 🇯🇵 ローマ教皇
+- **Reading:** ローマきょうこう
+- **Translation:** Pope
 - **Type:** noun
 
 ## Data Sources
