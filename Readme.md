@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ローマ教皇
-- **Reading:** ローマきょうこう
-- **Translation:** Pope
+### 🇯🇵 学齢簿
+- **Reading:** がくれいぼ
+- **Translation:** register of school-age children
 - **Type:** noun
 
 ## Data Sources
