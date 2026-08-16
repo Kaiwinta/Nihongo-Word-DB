@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 学齢簿
-- **Reading:** がくれいぼ
-- **Translation:** register of school-age children
+### 🇯🇵 音楽業界
+- **Reading:** おんがくぎょうかい
+- **Translation:** music industry, music business
 - **Type:** noun
 
 ## Data Sources
