@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 音楽業界
-- **Reading:** おんがくぎょうかい
-- **Translation:** music industry, music business
+### 🇯🇵 石油プラットフォーム
+- **Reading:** せきゆプラットフォーム
+- **Translation:** oil platform, oil rig
 - **Type:** noun
 
 ## Data Sources
