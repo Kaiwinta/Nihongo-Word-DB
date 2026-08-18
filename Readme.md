@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 石油プラットフォーム
-- **Reading:** せきゆプラットフォーム
-- **Translation:** oil platform, oil rig
+### 🇯🇵 囲みクラス
+- **Reading:** かこみクラス
+- **Translation:** enclosing class
 - **Type:** noun
 
 ## Data Sources
