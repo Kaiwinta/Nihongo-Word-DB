@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 囲みクラス
-- **Reading:** かこみクラス
-- **Translation:** enclosing class
+### 🇯🇵 雪線
+- **Reading:** せっせん
+- **Translation:** snow line
 - **Type:** noun
 
 ## Data Sources
