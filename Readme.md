@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 雪線
-- **Reading:** せっせん
-- **Translation:** snow line
-- **Type:** noun
+### 🇯🇵 道々
+- **Reading:** みちみち
+- **Translation:** along the way, along the road
+- **Type:** adverb
 
 ## Data Sources
 
