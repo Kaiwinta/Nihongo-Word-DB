@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 道々
-- **Reading:** みちみち
-- **Translation:** along the way, along the road
-- **Type:** adverb
+### 🇯🇵 志向性
+- **Reading:** しこうせい
+- **Translation:** intentionality
+- **Type:** noun
 
 ## Data Sources
 
