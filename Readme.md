@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 志向性
-- **Reading:** しこうせい
-- **Translation:** intentionality
-- **Type:** noun
+### 🇯🇵 ヒステリック
+- **Reading:** ヒステリック
+- **Translation:** hysterical, hysteric
+- **Type:** adjective
 
 ## Data Sources
 
