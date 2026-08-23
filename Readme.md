@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ヒステリック
-- **Reading:** ヒステリック
-- **Translation:** hysterical, hysteric
-- **Type:** adjective
+### 🇯🇵 アリウス主義
+- **Reading:** アリウスしゅぎ
+- **Translation:** Arianism
+- **Type:** noun
 
 ## Data Sources
 
