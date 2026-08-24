@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 アリウス主義
-- **Reading:** アリウスしゅぎ
-- **Translation:** Arianism
-- **Type:** noun
+### 🇯🇵 ヘコヘコ
+- **Reading:** ヘコヘコ
+- **Translation:** pliantly, pliably, subserviently, ingratiatingly, servilely
+- **Type:** onomatopoeia, adverb, noun, verb
 
 ## Data Sources
 
