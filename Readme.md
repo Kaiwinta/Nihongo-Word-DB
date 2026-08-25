@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ヘコヘコ
-- **Reading:** ヘコヘコ
-- **Translation:** pliantly, pliably, subserviently, ingratiatingly, servilely
-- **Type:** onomatopoeia, adverb, noun, verb
+### 🇯🇵 輪差
+- **Reading:** わさ
+- **Translation:** loop, snare
+- **Type:** noun
 
 ## Data Sources
 
