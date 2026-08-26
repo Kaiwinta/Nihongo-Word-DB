@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 輪差
-- **Reading:** わさ
-- **Translation:** loop, snare
+### 🇯🇵 クルーソックス
+- **Reading:** クルーソックス
+- **Translation:** crew socks
 - **Type:** noun
 
 ## Data Sources
