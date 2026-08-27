@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 クルーソックス
-- **Reading:** クルーソックス
-- **Translation:** crew socks
+### 🇯🇵 押し目
+- **Reading:** おしめ
+- **Translation:** weakness, dip
 - **Type:** noun
 
 ## Data Sources
