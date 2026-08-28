@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 押し目
-- **Reading:** おしめ
-- **Translation:** weakness, dip
+### 🇯🇵 果たし合い
+- **Reading:** はたしあい
+- **Translation:** duel
 - **Type:** noun
 
 ## Data Sources
