@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 果たし合い
-- **Reading:** はたしあい
-- **Translation:** duel
-- **Type:** noun
+### 🇯🇵 無味無臭
+- **Reading:** むみむしゅう
+- **Translation:** tasteless and odorless, bland
+- **Type:** noun, adjective
 
 ## Data Sources
 
