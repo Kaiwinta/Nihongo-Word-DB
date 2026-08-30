@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 無味無臭
-- **Reading:** むみむしゅう
-- **Translation:** tasteless and odorless, bland
-- **Type:** noun, adjective
+### 🇯🇵 キーファーサザーランドのベイボーイ
+- **Reading:** キーファーサザーランドのベイボーイ
+- **Translation:** The Bay Boy (film)
+- **Type:** noun
 
 ## Data Sources
 
