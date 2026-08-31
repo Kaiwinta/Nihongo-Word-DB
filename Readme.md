@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 キーファーサザーランドのベイボーイ
-- **Reading:** キーファーサザーランドのベイボーイ
-- **Translation:** The Bay Boy (film)
+### 🇯🇵 伊曽保物語
+- **Reading:** いそほものがたり
+- **Translation:** Aesop's Fables (published initially by the Jesuits in 1593)
 - **Type:** noun
 
 ## Data Sources
