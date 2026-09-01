@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 伊曽保物語
-- **Reading:** いそほものがたり
-- **Translation:** Aesop's Fables (published initially by the Jesuits in 1593)
+### 🇯🇵 ファン層
+- **Reading:** ファンそう
+- **Translation:** fan base, fanbase, fan demographic, fandom
 - **Type:** noun
 
 ## Data Sources
