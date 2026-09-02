@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ファン層
-- **Reading:** ファンそう
-- **Translation:** fan base, fanbase, fan demographic, fandom
+### 🇯🇵 余興
+- **Reading:** よきょう
+- **Translation:** performance (at a party or banquet, etc.), side show, entertainment
 - **Type:** noun
 
 ## Data Sources
