@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 余興
-- **Reading:** よきょう
-- **Translation:** performance (at a party or banquet, etc.), side show, entertainment
-- **Type:** noun
+### 🇯🇵 医学的
+- **Reading:** いがくてき
+- **Translation:** medical
+- **Type:** adjective
 
 ## Data Sources
 
