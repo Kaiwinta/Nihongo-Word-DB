@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 医学的
-- **Reading:** いがくてき
-- **Translation:** medical
-- **Type:** adjective
+### 🇯🇵 ゼプト
+- **Reading:** ゼプト
+- **Translation:** zepto-, 10^-21
+- **Type:** prefix
 
 ## Data Sources
 
