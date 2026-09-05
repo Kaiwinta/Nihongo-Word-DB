@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ゼプト
-- **Reading:** ゼプト
-- **Translation:** zepto-, 10^-21
-- **Type:** prefix
+### 🇯🇵 主教冠
+- **Reading:** しゅきょうかん
+- **Translation:** miter
+- **Type:** noun
 
 ## Data Sources
 
