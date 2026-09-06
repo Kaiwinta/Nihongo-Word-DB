@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 主教冠
-- **Reading:** しゅきょうかん
-- **Translation:** miter
+### 🇯🇵 有機肥料
+- **Reading:** ゆうきひりょう
+- **Translation:** organic fertilizer, organic fertiliser
 - **Type:** noun
 
 ## Data Sources
