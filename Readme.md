@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 有機肥料
-- **Reading:** ゆうきひりょう
-- **Translation:** organic fertilizer, organic fertiliser
+### 🇯🇵 ベルベーヌ
+- **Reading:** ベルベーヌ
+- **Translation:** verbena
 - **Type:** noun
 
 ## Data Sources
