@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ベルベーヌ
-- **Reading:** ベルベーヌ
-- **Translation:** verbena
+### 🇯🇵 有配
+- **Reading:** ゆうはい
+- **Translation:** dividend-paying (stock)
 - **Type:** noun
 
 ## Data Sources
