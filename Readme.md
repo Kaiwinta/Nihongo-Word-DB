@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 有配
-- **Reading:** ゆうはい
-- **Translation:** dividend-paying (stock)
-- **Type:** noun
+### 🇯🇵 か如何か
+- **Reading:** かどうか
+- **Translation:** whether (or not), if
+- **Type:** expression
 
 ## Data Sources
 
