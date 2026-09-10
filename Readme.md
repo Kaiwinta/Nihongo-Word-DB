@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 か如何か
-- **Reading:** かどうか
-- **Translation:** whether (or not), if
-- **Type:** expression
+### 🇯🇵 赤裸
+- **Reading:** せきら
+- **Translation:** stark naked, nude, bare, unvarnished (e.g. truth), plain (e.g. fact)
+- **Type:** noun, adjective, rare term
 
 ## Data Sources
 
