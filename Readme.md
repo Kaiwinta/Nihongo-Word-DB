@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 赤裸
-- **Reading:** せきら
-- **Translation:** stark naked, nude, bare, unvarnished (e.g. truth), plain (e.g. fact)
-- **Type:** noun, adjective, rare term
+### 🇯🇵 昌泰
+- **Reading:** しょうたい
+- **Translation:** Shōtai era (898.4.26-901.7.15)
+- **Type:** noun
 
 ## Data Sources
 
