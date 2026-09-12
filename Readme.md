@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 昌泰
-- **Reading:** しょうたい
-- **Translation:** Shōtai era (898.4.26-901.7.15)
-- **Type:** noun
+### 🇯🇵 被弾
+- **Reading:** ひだん
+- **Translation:** being shot, being bombed
+- **Type:** noun, verb
 
 ## Data Sources
 
