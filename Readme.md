@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 被弾
-- **Reading:** ひだん
-- **Translation:** being shot, being bombed
-- **Type:** noun, verb
+### 🇯🇵 フルーツトマト
+- **Reading:** フルーツトマト
+- **Translation:** high-sugar tomato, tomato with reduced water content
+- **Type:** loanword, noun
 
 ## Data Sources
 
