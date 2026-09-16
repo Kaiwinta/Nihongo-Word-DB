@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 五具足
-- **Reading:** ごぐそく
-- **Translation:** five implements placed in front of a Buddhist altar: two candlesticks, two vases (usu. containing flowers made of gilded copper) and one incense burner
-- **Type:** noun
+### 🇯🇵 マリアッチ
+- **Reading:** マリアッチ
+- **Translation:** mariachi
+- **Type:** music, noun
 
 ## Data Sources
 
