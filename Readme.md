@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 マリアッチ
-- **Reading:** マリアッチ
-- **Translation:** mariachi
-- **Type:** music, noun
+### 🇯🇵 赤手
+- **Reading:** せきしゅ
+- **Translation:** bare handed
+- **Type:** noun
 
 ## Data Sources
 
