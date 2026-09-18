@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 赤手
-- **Reading:** せきしゅ
-- **Translation:** bare handed
+### 🇯🇵 三味線弾
+- **Reading:** さみせんひき
+- **Translation:** samisen player
 - **Type:** noun
 
 ## Data Sources
