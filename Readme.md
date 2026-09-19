@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 三味線弾
-- **Reading:** さみせんひき
-- **Translation:** samisen player
+### 🇯🇵 シャドーボクシング
+- **Reading:** シャドーボクシング
+- **Translation:** shadowboxing
 - **Type:** noun
 
 ## Data Sources
