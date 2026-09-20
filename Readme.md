@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 シャドーボクシング
-- **Reading:** シャドーボクシング
-- **Translation:** shadowboxing
-- **Type:** noun
+### 🇯🇵 解団
+- **Reading:** かいだん
+- **Translation:** disbandment
+- **Type:** noun, verb
 
 ## Data Sources
 
