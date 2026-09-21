@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 解団
-- **Reading:** かいだん
-- **Translation:** disbandment
-- **Type:** noun, verb
+### 🇯🇵 抜き放す
+- **Reading:** ぬきはなす
+- **Translation:** to unsheathe one's sword
+- **Type:** verb
 
 ## Data Sources
 
