@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 抜き放す
-- **Reading:** ぬきはなす
-- **Translation:** to unsheathe one's sword
-- **Type:** verb
+### 🇯🇵 人ゲノム
+- **Reading:** ひとゲノム
+- **Translation:** human genome
+- **Type:** kana-only, noun
 
 ## Data Sources
 
