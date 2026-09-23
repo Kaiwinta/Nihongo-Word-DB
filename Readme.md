@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 人ゲノム
-- **Reading:** ひとゲノム
-- **Translation:** human genome
-- **Type:** kana-only, noun
+### 🇯🇵 パスモ
+- **Reading:** パスモ
+- **Translation:** PASMO (payment system)
+- **Type:** noun
 
 ## Data Sources
 
