@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 パスモ
-- **Reading:** パスモ
-- **Translation:** PASMO (payment system)
-- **Type:** noun
+### 🇯🇵 ヘッドレスサーバ
+- **Reading:** ヘッドレスサーバ
+- **Translation:** headless server
+- **Type:** computing, noun
 
 ## Data Sources
 
