@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ヘッドレスサーバ
-- **Reading:** ヘッドレスサーバ
-- **Translation:** headless server
-- **Type:** computing, noun
+### 🇯🇵 至急電報
+- **Reading:** しきゅうでんぽう
+- **Translation:** urgent telegram
+- **Type:** noun
 
 ## Data Sources
 
