@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 至急電報
-- **Reading:** しきゅうでんぽう
-- **Translation:** urgent telegram
-- **Type:** noun
+### 🇯🇵 考えすぎる
+- **Reading:** かんがえすぎる
+- **Translation:** to think too much, to be over-concerned
+- **Type:** verb
 
 ## Data Sources
 
