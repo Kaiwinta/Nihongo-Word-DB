@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 考えすぎる
-- **Reading:** かんがえすぎる
-- **Translation:** to think too much, to be over-concerned
-- **Type:** verb
+### 🇯🇵 ラテアート
+- **Reading:** ラテアート
+- **Translation:** latte art
+- **Type:** noun
 
 ## Data Sources
 
