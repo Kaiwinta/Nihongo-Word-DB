@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ラテアート
-- **Reading:** ラテアート
-- **Translation:** latte art
+### 🇯🇵 カタログショッピング
+- **Reading:** カタログショッピング
+- **Translation:** catalog shopping, catalogue shopping
 - **Type:** noun
 
 ## Data Sources
