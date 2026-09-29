@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 カタログショッピング
-- **Reading:** カタログショッピング
-- **Translation:** catalog shopping, catalogue shopping
-- **Type:** noun
+### 🇯🇵 ランディングゾーン
+- **Reading:** ランディングゾーン
+- **Translation:** landing zone, LZ
+- **Type:** computing, noun
 
 ## Data Sources
 
