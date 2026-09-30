@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ランディングゾーン
-- **Reading:** ランディングゾーン
-- **Translation:** landing zone, LZ
-- **Type:** computing, noun
+### 🇯🇵 捩れる
+- **Reading:** よじれる
+- **Translation:** to be twisted
+- **Type:** kana-only, verb
 
 ## Data Sources
 
