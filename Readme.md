@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 捩れる
-- **Reading:** よじれる
-- **Translation:** to be twisted
-- **Type:** kana-only, verb
+### 🇯🇵 伏魔殿
+- **Reading:** ふくまでん
+- **Translation:** abode of demons, hotbed (of graft), pandemonium
+- **Type:** noun
 
 ## Data Sources
 
