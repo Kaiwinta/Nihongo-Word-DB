@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 伏魔殿
-- **Reading:** ふくまでん
-- **Translation:** abode of demons, hotbed (of graft), pandemonium
+### 🇯🇵 瀬切れ
+- **Reading:** せぎれ
+- **Translation:** drying up (of the surface of a riverbed)
 - **Type:** noun
 
 ## Data Sources
