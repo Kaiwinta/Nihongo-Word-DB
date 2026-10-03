@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 瀬切れ
-- **Reading:** せぎれ
-- **Translation:** drying up (of the surface of a riverbed)
+### 🇯🇵 低懸念
+- **Reading:** ていけねん
+- **Translation:** Least Concern (conservation status), LC
 - **Type:** noun
 
 ## Data Sources
