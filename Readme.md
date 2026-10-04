@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 低懸念
-- **Reading:** ていけねん
-- **Translation:** Least Concern (conservation status), LC
+### 🇯🇵 カーきち
+- **Reading:** カーきち
+- **Translation:** petrolhead, car nut
 - **Type:** noun
 
 ## Data Sources
