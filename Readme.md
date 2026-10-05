@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 カーきち
-- **Reading:** カーきち
-- **Translation:** petrolhead, car nut
+### 🇯🇵 気力
+- **Reading:** きりょく
+- **Translation:** willpower, energy, vitality
 - **Type:** noun
 
 ## Data Sources
