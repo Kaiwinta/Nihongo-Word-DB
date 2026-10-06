@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 気力
-- **Reading:** きりょく
-- **Translation:** willpower, energy, vitality
+### 🇯🇵 広島県
+- **Reading:** ひろしまけん
+- **Translation:** Hiroshima prefecture (Chūgoku area)
 - **Type:** noun
 
 ## Data Sources
