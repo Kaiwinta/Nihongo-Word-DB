@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 広島県
-- **Reading:** ひろしまけん
-- **Translation:** Hiroshima prefecture (Chūgoku area)
-- **Type:** noun
+### 🇯🇵 聞いて極楽見て地獄
+- **Reading:** きいてごくらくみてじごく
+- **Translation:** don't believe everything you hear, what is a paradise on hearsay may be a hell at sight
+- **Type:** expression
 
 ## Data Sources
 
