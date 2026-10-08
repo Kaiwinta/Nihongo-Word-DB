@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 聞いて極楽見て地獄
-- **Reading:** きいてごくらくみてじごく
-- **Translation:** don't believe everything you hear, what is a paradise on hearsay may be a hell at sight
-- **Type:** expression
+### 🇯🇵 解氷剤
+- **Reading:** かいひょうざい
+- **Translation:** de-icing agent, de-icer
+- **Type:** noun
 
 ## Data Sources
 
