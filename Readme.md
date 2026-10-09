@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 解氷剤
-- **Reading:** かいひょうざい
-- **Translation:** de-icing agent, de-icer
+### 🇯🇵 羈縻
+- **Reading:** きび
+- **Translation:** tying down, fastening, binding, jimi system, ancient Chinese self-rule administrative system
 - **Type:** noun
 
 ## Data Sources
