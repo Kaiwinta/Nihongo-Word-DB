@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 羈縻
-- **Reading:** きび
-- **Translation:** tying down, fastening, binding, jimi system, ancient Chinese self-rule administrative system
-- **Type:** noun
+### 🇯🇵 敵の急所は我が急所
+- **Reading:** てきのきゅうしょはわがきゅうしょ
+- **Translation:** the enemy's key point is yours
+- **Type:** go (game), expression
 
 ## Data Sources
 
