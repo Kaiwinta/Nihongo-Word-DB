@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 敵の急所は我が急所
-- **Reading:** てきのきゅうしょはわがきゅうしょ
-- **Translation:** the enemy's key point is yours
-- **Type:** go (game), expression
+### 🇯🇵 アイソトープ検査
+- **Reading:** アイソトープけんさ
+- **Translation:** isotope examination
+- **Type:** noun
 
 ## Data Sources
 
