@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 人数分
-- **Reading:** にんずうぶん
-- **Translation:** per-capita division, division according to the number of people
-- **Type:** noun, adjective
+### 🇯🇵 アップタウン
+- **Reading:** アップタウン
+- **Translation:** uptown
+- **Type:** noun
 
 ## Data Sources
 
