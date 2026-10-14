@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 アップタウン
-- **Reading:** アップタウン
-- **Translation:** uptown
+### 🇯🇵 サッカーチーム
+- **Reading:** サッカーチーム
+- **Translation:** soccer team
 - **Type:** noun
 
 ## Data Sources
