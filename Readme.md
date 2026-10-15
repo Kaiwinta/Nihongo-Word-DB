@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 サッカーチーム
-- **Reading:** サッカーチーム
-- **Translation:** soccer team
+### 🇯🇵 ＡＬＥ
+- **Reading:** エー・エル・イー
+- **Translation:** atomic layer epitaxy, ALE
 - **Type:** noun
 
 ## Data Sources
