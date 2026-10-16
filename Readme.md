@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ＡＬＥ
-- **Reading:** エー・エル・イー
-- **Translation:** atomic layer epitaxy, ALE
+### 🇯🇵 準備会
+- **Reading:** じゅんびかい
+- **Translation:** preparatory meeting, preparatory committee
 - **Type:** noun
 
 ## Data Sources
