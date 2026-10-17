@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 準備会
-- **Reading:** じゅんびかい
-- **Translation:** preparatory meeting, preparatory committee
-- **Type:** noun
+### 🇯🇵 対地同期軌道
+- **Reading:** たいちどうききどう
+- **Translation:** geosynchronous orbit
+- **Type:** astronomy, noun
 
 ## Data Sources
 
