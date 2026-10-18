@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 対地同期軌道
-- **Reading:** たいちどうききどう
-- **Translation:** geosynchronous orbit
-- **Type:** astronomy, noun
+### 🇯🇵 ゲル
+- **Reading:** ゲル
+- **Translation:** money
+- **Type:** loanword, chemistry, noun
 
 ## Data Sources
 
