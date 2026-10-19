@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ゲル
-- **Reading:** ゲル
-- **Translation:** money
-- **Type:** loanword, chemistry, noun
+### 🇯🇵 脂油
+- **Reading:** しゆ
+- **Translation:** fatty oil
+- **Type:** noun
 
 ## Data Sources
 
