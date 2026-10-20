@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 脂油
-- **Reading:** しゆ
-- **Translation:** fatty oil
-- **Type:** noun
+### 🇯🇵 クリニカルパス
+- **Reading:** クリニカルパス
+- **Translation:** clinical pathway, care map
+- **Type:** medicine, noun
 
 ## Data Sources
 
