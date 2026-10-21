@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 クリニカルパス
-- **Reading:** クリニカルパス
-- **Translation:** clinical pathway, care map
-- **Type:** medicine, noun
+### 🇯🇵 一の御子
+- **Reading:** いちのみこ
+- **Translation:** first-born imperial prince
+- **Type:** archaic, noun
 
 ## Data Sources
 
