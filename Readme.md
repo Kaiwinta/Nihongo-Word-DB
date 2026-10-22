@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 一の御子
-- **Reading:** いちのみこ
-- **Translation:** first-born imperial prince
-- **Type:** archaic, noun
+### 🇯🇵 電磁相互作用
+- **Reading:** でんじそうごさよう
+- **Translation:** electromagnetic interaction
+- **Type:** physics, noun
 
 ## Data Sources
 
