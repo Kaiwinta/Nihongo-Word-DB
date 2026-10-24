@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ピンタック
-- **Reading:** ピンタック
-- **Translation:** pin tuck
-- **Type:** noun
+### 🇯🇵 グロッキー
+- **Reading:** グロッキー
+- **Translation:** groggy
+- **Type:** adjective, noun
 
 ## Data Sources
 
