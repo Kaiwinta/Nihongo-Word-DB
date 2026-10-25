@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 グロッキー
-- **Reading:** グロッキー
-- **Translation:** groggy
-- **Type:** adjective, noun
+### 🇯🇵 源泉徴収税額
+- **Reading:** げんせんちょうしゅうぜいがく
+- **Translation:** amount of tax withheld, withholding tax amount
+- **Type:** noun
 
 ## Data Sources
 
