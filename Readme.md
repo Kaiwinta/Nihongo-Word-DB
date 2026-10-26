@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 源泉徴収税額
-- **Reading:** げんせんちょうしゅうぜいがく
-- **Translation:** amount of tax withheld, withholding tax amount
+### 🇯🇵 コレクトオンデリバリー
+- **Reading:** コレクトオンデリバリー
+- **Translation:** collect on delivery
 - **Type:** noun
 
 ## Data Sources
