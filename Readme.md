@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 コレクトオンデリバリー
-- **Reading:** コレクトオンデリバリー
-- **Translation:** collect on delivery
+### 🇯🇵 引き取り
+- **Reading:** ひきとり
+- **Translation:** taking, accepting, receipt, collection, leaving
 - **Type:** noun
 
 ## Data Sources
