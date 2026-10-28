@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 引き取り
-- **Reading:** ひきとり
-- **Translation:** taking, accepting, receipt, collection, leaving
+### 🇯🇵 太陽輻射
+- **Reading:** たいようふくしゃ
+- **Translation:** solar radiation
 - **Type:** noun
 
 ## Data Sources
