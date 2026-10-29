@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 太陽輻射
-- **Reading:** たいようふくしゃ
-- **Translation:** solar radiation
-- **Type:** noun
+### 🇯🇵 金時
+- **Reading:** きんとき
+- **Translation:** red, red kidney bean, sweet potato (any of a number of different cultivars with red skin)
+- **Type:** noun, noun-prefix, adjective, abbreviation
 
 ## Data Sources
 
