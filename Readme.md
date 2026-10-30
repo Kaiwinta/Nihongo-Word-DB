@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 金時
-- **Reading:** きんとき
-- **Translation:** red, red kidney bean, sweet potato (any of a number of different cultivars with red skin)
-- **Type:** noun, noun-prefix, adjective, abbreviation
+### 🇯🇵 飛び離れる
+- **Reading:** とびはなれる
+- **Translation:** to fly apart, to tower over, to be out of the ordinary
+- **Type:** verb
 
 ## Data Sources
 
