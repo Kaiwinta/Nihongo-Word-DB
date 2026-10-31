@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 飛び離れる
-- **Reading:** とびはなれる
-- **Translation:** to fly apart, to tower over, to be out of the ordinary
-- **Type:** verb
+### 🇯🇵 シコシコ
+- **Reading:** シコシコ
+- **Translation:** chewy, springy, al dente, (slowly and) steadily, patiently
+- **Type:** onomatopoeia, adverb, noun, verb, colloquial
 
 ## Data Sources
 
