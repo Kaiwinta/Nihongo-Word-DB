@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 シコシコ
-- **Reading:** シコシコ
-- **Translation:** chewy, springy, al dente, (slowly and) steadily, patiently
-- **Type:** onomatopoeia, adverb, noun, verb, colloquial
+### 🇯🇵 柿色
+- **Reading:** かきいろ
+- **Translation:** reddish-brown, yellowish-brown
+- **Type:** noun, adjective
 
 ## Data Sources
 
