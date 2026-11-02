@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 柿色
-- **Reading:** かきいろ
-- **Translation:** reddish-brown, yellowish-brown
-- **Type:** noun, adjective
+### 🇯🇵 枕
+- **Reading:** まくら
+- **Translation:** pillow, bolster, introduction (e.g. to a rakugo story), lead-in
+- **Type:** noun, noun-suffix
 
 ## Data Sources
 
