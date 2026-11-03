@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 枕
-- **Reading:** まくら
-- **Translation:** pillow, bolster, introduction (e.g. to a rakugo story), lead-in
-- **Type:** noun, noun-suffix
+### 🇯🇵 精神神経
+- **Reading:** せいしんしんけい
+- **Translation:** psychoneuro, psychoneurotic
+- **Type:** noun, adjective
 
 ## Data Sources
 
