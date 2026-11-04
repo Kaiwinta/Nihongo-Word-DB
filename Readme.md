@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 精神神経
-- **Reading:** せいしんしんけい
-- **Translation:** psychoneuro, psychoneurotic
-- **Type:** noun, adjective
+### 🇯🇵 ＯＰＥＣ
+- **Reading:** オペック
+- **Translation:** Organization of Petroleum Exporting Countries, OPEC
+- **Type:** noun
 
 ## Data Sources
 
