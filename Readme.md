@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ＯＰＥＣ
-- **Reading:** オペック
-- **Translation:** Organization of Petroleum Exporting Countries, OPEC
+### 🇯🇵 発色現像
+- **Reading:** はっしょくげんぞう
+- **Translation:** colour development (of photographs), color development, chromogenic development
 - **Type:** noun
 
 ## Data Sources
