@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 発色現像
-- **Reading:** はっしょくげんぞう
-- **Translation:** colour development (of photographs), color development, chromogenic development
+### 🇯🇵 落語
+- **Reading:** らくご
+- **Translation:** rakugo, traditional Japanese comic storytelling, comic story (told by a professional storyteller)
 - **Type:** noun
 
 ## Data Sources
