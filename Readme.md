@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 落語
-- **Reading:** らくご
-- **Translation:** rakugo, traditional Japanese comic storytelling, comic story (told by a professional storyteller)
-- **Type:** noun
+### 🇯🇵 牽強付会
+- **Reading:** けんきょうふかい
+- **Translation:** strained (argument, interpretation, etc.), farfetched (theory, view, etc.), forced, laboured, twisted (reasoning)
+- **Type:** expression, noun, adjective, verb
 
 ## Data Sources
 
