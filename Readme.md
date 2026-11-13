@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 牽強付会
-- **Reading:** けんきょうふかい
-- **Translation:** strained (argument, interpretation, etc.), farfetched (theory, view, etc.), forced, laboured, twisted (reasoning)
-- **Type:** expression, noun, adjective, verb
+### 🇯🇵 ブッディスト
+- **Reading:** ブッディスト
+- **Translation:** Buddhist
+- **Type:** noun, adjective
 
 ## Data Sources
 
