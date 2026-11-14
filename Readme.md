@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 ブッディスト
-- **Reading:** ブッディスト
-- **Translation:** Buddhist
-- **Type:** noun, adjective
+### 🇯🇵 底数
+- **Reading:** ていすう
+- **Translation:** base, radix
+- **Type:** noun
 
 ## Data Sources
 
