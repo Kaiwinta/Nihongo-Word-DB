@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 底数
-- **Reading:** ていすう
-- **Translation:** base, radix
-- **Type:** noun
+### 🇯🇵 日参
+- **Reading:** にっさん
+- **Translation:** daily visit to a temple or shrine (to worship), visiting frequently, visiting daily
+- **Type:** noun, verb
 
 ## Data Sources
 
