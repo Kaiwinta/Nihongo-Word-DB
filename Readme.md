@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 日参
-- **Reading:** にっさん
-- **Translation:** daily visit to a temple or shrine (to worship), visiting frequently, visiting daily
-- **Type:** noun, verb
+### 🇯🇵 未決監
+- **Reading:** みけつかん
+- **Translation:** detention prison
+- **Type:** noun
 
 ## Data Sources
 
