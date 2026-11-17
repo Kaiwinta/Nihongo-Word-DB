@@ -4,9 +4,9 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 未決監
-- **Reading:** みけつかん
-- **Translation:** detention prison
+### 🇯🇵 セミスチール
+- **Reading:** セミスチール
+- **Translation:** semi-steel
 - **Type:** noun
 
 ## Data Sources
