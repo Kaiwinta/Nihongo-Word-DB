@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 セミスチール
-- **Reading:** セミスチール
-- **Translation:** semi-steel
-- **Type:** noun
+### 🇯🇵 中文
+- **Reading:** ちゅうぶん
+- **Translation:** Chinese language (written), Chinese literature
+- **Type:** noun, abbreviation
 
 ## Data Sources
 
