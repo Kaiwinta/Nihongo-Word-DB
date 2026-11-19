@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 中文
-- **Reading:** ちゅうぶん
-- **Translation:** Chinese language (written), Chinese literature
-- **Type:** noun, abbreviation
+### 🇯🇵 石畳貝
+- **Reading:** いしだたみがい
+- **Translation:** toothed top shell (Monodonta labio)
+- **Type:** kana-only, noun
 
 ## Data Sources
 
