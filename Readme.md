@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 石畳貝
-- **Reading:** いしだたみがい
-- **Translation:** toothed top shell (Monodonta labio)
-- **Type:** kana-only, noun
+### 🇯🇵 完全燃焼
+- **Reading:** かんぜんねんしょう
+- **Translation:** complete combustion, perfect combustion, giving one's all, doing one's best, using all of one's ability
+- **Type:** expression, noun, verb
 
 ## Data Sources
 
