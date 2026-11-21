@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 完全燃焼
-- **Reading:** かんぜんねんしょう
-- **Translation:** complete combustion, perfect combustion, giving one's all, doing one's best, using all of one's ability
-- **Type:** expression, noun, verb
+### 🇯🇵 マルチクラス
+- **Reading:** マルチクラス
+- **Translation:** multiclass (esp. in a role-playing game)
+- **Type:** noun, adjective
 
 ## Data Sources
 
