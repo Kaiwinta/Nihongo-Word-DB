@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 マルチクラス
-- **Reading:** マルチクラス
-- **Translation:** multiclass (esp. in a role-playing game)
-- **Type:** noun, adjective
+### 🇯🇵 増やす
+- **Reading:** ふやす
+- **Translation:** to increase, to add to, to augment
+- **Type:** verb
 
 ## Data Sources
 
