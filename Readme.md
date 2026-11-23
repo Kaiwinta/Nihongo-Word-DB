@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 増やす
-- **Reading:** ふやす
-- **Translation:** to increase, to add to, to augment
-- **Type:** verb
+### 🇯🇵 遊び相手
+- **Reading:** あそびあいて
+- **Translation:** playmate, playfellow
+- **Type:** noun
 
 ## Data Sources
 
