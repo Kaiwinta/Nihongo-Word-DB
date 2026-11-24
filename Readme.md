@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 遊び相手
-- **Reading:** あそびあいて
-- **Translation:** playmate, playfellow
-- **Type:** noun
+### 🇯🇵 食わせる
+- **Reading:** くわせる
+- **Translation:** to feed (e.g. an animal on oats), to let eat, to serve (e.g. in a restaurant), to force to eat, to support (e.g. a family)
+- **Type:** verb
 
 ## Data Sources
 
