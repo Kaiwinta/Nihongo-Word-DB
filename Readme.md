@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 食わせる
-- **Reading:** くわせる
-- **Translation:** to feed (e.g. an animal on oats), to let eat, to serve (e.g. in a restaurant), to force to eat, to support (e.g. a family)
-- **Type:** verb
+### 🇯🇵 飼い主
+- **Reading:** かいぬし
+- **Translation:** (pet) owner, keeper
+- **Type:** noun
 
 ## Data Sources
 
