@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 飼い主
-- **Reading:** かいぬし
-- **Translation:** (pet) owner, keeper
-- **Type:** noun
+### 🇯🇵 フィッシュベジタリアン
+- **Reading:** フィッシュベジタリアン
+- **Translation:** pescetarian, pescatarian, pesco-vegetarian
+- **Type:** loanword, noun
 
 ## Data Sources
 
