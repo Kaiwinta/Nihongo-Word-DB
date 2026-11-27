@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 フィッシュベジタリアン
-- **Reading:** フィッシュベジタリアン
-- **Translation:** pescetarian, pescatarian, pesco-vegetarian
-- **Type:** loanword, noun
+### 🇯🇵 スター形配線リングネットワーク
+- **Reading:** スターけいはいせんリングネットワーク
+- **Translation:** star-ring network
+- **Type:** rare term, computing, noun
 
 ## Data Sources
 
