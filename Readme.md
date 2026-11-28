@@ -4,10 +4,10 @@ This database contains **216,381 words**.
 
 ## Word of the day
 
-### 🇯🇵 スター形配線リングネットワーク
-- **Reading:** スターけいはいせんリングネットワーク
-- **Translation:** star-ring network
-- **Type:** rare term, computing, noun
+### 🇯🇵 ロングコビッド
+- **Reading:** ロングコビッド
+- **Translation:** long COVID, long-term effects of COVID-19
+- **Type:** medicine, noun
 
 ## Data Sources
 
